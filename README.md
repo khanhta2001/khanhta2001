@@ -8,3 +8,5 @@
 - You can make a connection on <a href="https://www.linkedin.com/in/an-khanh-tran/" target="_blank">LinkedIn</a>. 
 
 [![Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhta2001&theme=cobalt&hide=stars,prs)](https://github.com/khanhta2001)
+
+[![Khanh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhta2001&theme=cobalt&hide=html,css)](https://github.com/khanhta2001)
