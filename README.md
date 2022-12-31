@@ -1,4 +1,5 @@
 # Hello There! 
+
 - Hi y'all, I'm katnlot, but you can call me Khanh! I'm a junior majoring Computer Science at Illinois Wesleyan University!
 - My work focuses mostly on back end side with <b>C#</b> and <b>.NET</b> stack, but I also enjoy working with <b>Python</b>, <b>Java</b>, <b>C++</b> on various things. 
 - Since I started coding, I use <b>GitHub</b> to store projects, both from classes and personal. A bunch of repos on here are mostly ideas and projects I'm currently doing. I just love coding everyday so most of the time I just play with new things I find on internet.
