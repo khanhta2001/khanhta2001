@@ -12,4 +12,4 @@
 ---
 Stats
 - I started learning about systems, hardware so C++ and C are now my favorite programming language
-<img alt="khanhta2001's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhta2001&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhta2001&layout=compact)](https://github.com/khanhta2001/github-readme-stats)
