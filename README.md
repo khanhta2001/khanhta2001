@@ -12,4 +12,3 @@
 ---
 Stats
 - I started learning about systems, hardware so C++ and C are now my favorite programming language
-[![Top Language](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhta2001"/>)
