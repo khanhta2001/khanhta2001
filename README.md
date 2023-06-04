@@ -7,3 +7,9 @@
 - I'm currently learning about microcontrollers, Linux Kernel development, and FPGA. My goal is to become an embedded Engineer! This is due to my interest in embedded hardware, taken after my first internship as a robotic development researcher at North Dakota State University!
 --- 
 - You can make a connection on <a href="https://www.linkedin.com/in/an-khanh-tran/" target="_blank">LinkedIn</a>. 
+
+---
+Skills:
+- <b>Programming Languages</b>: C/C++, C#, Python, Java, PHP
+- <b>Development Tools</b>: .NET, Unreal Engine, Vivado, STM32CubeIDE
+- <b>Database</b>: MongoDB, AWS Database, MySQL
