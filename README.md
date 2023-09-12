@@ -13,7 +13,7 @@
 --- 
 - You can make a connection on <a href="https://www.linkedin.com/in/an-khanh-tran/" target="_blank">LinkedIn</a>. 
 ---
-# Skills:
+# Skills
 - <b>Programming Languages</b>: C/C++, C#, Python, Java, PHP
 - <b>Development Tools</b>: .NET, Unreal Engine, Vivado, STM32CubeIDE
 - <b>Database</b>: MongoDB, AWS Database, MySQL
