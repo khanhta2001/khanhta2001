@@ -9,7 +9,8 @@
 # Projects
 - Newest Project i'm working on is TradingBot, where I connect with ETrade API and conduct trades through ETrade sandbox, I'm developing both C++ and .NET rn
 - Taking a few hardware course on Udemy and Coursera too due to my interests and learning about PCB design and custom board design and soldering stuff
-- Doing a bunch of OS learning rn so I get the base going! 
+- Doing a bunch of OS learning rn so I get the base going!
+- FPGA learning!  
 --- 
 - You can make a connection on <a href="https://www.linkedin.com/in/an-khanh-tran/" target="_blank">LinkedIn</a>. 
 ---
